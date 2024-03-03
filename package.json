@@ -1,0 +1,26 @@
+{
+"name": "Pers32424inaacker",
+"version": "1.0.0",
+"description": "With features like budgeting tools, expense categorization, and financial goal setting",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/isabel854/PersonalFinanceTracker.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "isabel854",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
